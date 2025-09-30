@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Iguana juvenil",
+    "description": "Iguana verde de 6 meses, muy saludable.",
+    "price": "$1,200 MXN",
+    "image": "https://via.placeholder.com/250x150?text=Iguana"
+  },
+  {
+    "name": "Hurón albino",
+    "description": "Hurón joven, juguetón y cariñoso.",
+    "price": "$3,500 MXN",
+    "image": "https://via.placeholder.com/250x150?text=Hurón"
+  },
+  {
+    "name": "Terrario de vidrio",
+    "description": "Terrario 60x40cm con ventilación lateral.",
+    "price": "$1,800 MXN",
+    "image": "https://via.placeholder.com/250x150?text=Terrario"
+  }
+]

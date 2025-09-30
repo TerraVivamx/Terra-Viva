@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#111; color:#eee;}
+header { background:#234d20; padding:1em; text-align:center; color:#fff;}
+h1 { margin:0; }
+#products { display:flex; flex-wrap:wrap; justify-content:center; gap:1em; padding:1em;}
+.card { background:#1b1b1b; border-radius:8px; padding:1em; width:250px; text-align:center;}
+.card img { width:100%; border-radius:8px; }
+button { background:#25d366; border:none; color:white; padding:10px; border-radius:5px; cursor:pointer; margin-top:10px;}
+button:hover { background:#1ebe5d;}
+footer { background:#000; padding:1em; text-align:center; font-size:0.9em;}
