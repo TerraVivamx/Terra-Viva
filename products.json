@@ -1,20 +1,116 @@
 [
   {
-    "name": "Iguana juvenil",
-    "description": "Iguana verde de 6 meses, muy saludable.",
-    "price": "$1,200 MXN",
-    "image": "https://via.placeholder.com/250x150?text=Iguana"
+    "name": "Plato para comer lento",
+    "price": "55 MXN",
+    "image": "ppcomerlento.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato para comer lento",
+    "category": "Perros"
   },
   {
-    "name": "Hurón albino",
-    "description": "Hurón joven, juguetón y cariñoso.",
-    "price": "$3,500 MXN",
-    "image": "https://via.placeholder.com/250x150?text=Hurón"
+    "name": "Plato plegable con base",
+    "price": "120 MXN",
+    "image": "pplegableconbase.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato plegable con base",
+    "category": "Perros"
   },
   {
-    "name": "Terrario de vidrio",
-    "description": "Terrario 60x40cm con ventilación lateral.",
-    "price": "$1,800 MXN",
-    "image": "https://via.placeholder.com/250x150?text=Terrario"
+    "name": "Plato metalico antiderrapante",
+    "price": "130 MXN",
+    "image": "pmetalicoantiderrapante.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
+    "category": "Perros"
   }
+  [
+  {
+    "name": "Plato de bambú",
+    "price": "90 MXN",
+    "image": "pdebambu.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato de bambu",
+    "category": "Reptiles"
+  },
+  {
+    "name": "Plato de acero y melanina",
+    "price": "100 MXN",
+    "image": "pdeaceroymelanina.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato de acero y melanina",
+    "category": "Perros"
+  },
+  {
+    "name": "Plato belly antiderrapante",
+    "price": "75 MXN",
+    "image": "pbellyantiderrapante.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
+    "category": "Perros"
+  }
+  [
+  {
+    "name": "Plato de melanina",
+    "price": "45 MXN",
+    "image": "pdemelanina.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato de melanina",
+    "category": "Perros"
+  },
+  {
+    "name": "Plato fusion bowl",
+    "price": "65 MXN",
+    "image": "pfusionbowl.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato fusion bowl",
+    "category": "Perros"
+  },
+  {
+    "name": "Plato para comer lento grande",
+    "price": "80 MXN",
+    "image": "ppcomerlentogrande.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato para comer lento grande",
+    "category": "Perros"
+  }
+  [
+  {
+    "name": "Sofá para Hámster",
+    "price": "60 MXN",
+    "image": "sofaphamster.jpg",
+    "whatsapp": "Hola, quiero información sobre el Sofá para Hamster",
+    "category": "Roedores"
+  },
+  {
+    "name": "Castillo de Plástico",
+    "price": "150 MXN",
+    "image": "castillodeplastico.jpg",
+    "whatsapp": "Hola, quiero información sobre el Castillo de Plastico",
+    "category": "Roedores"
+  },
+  {
+    "name": "Cama de Plástico",
+    "price": "60 MXN",
+    "image": "camadeplastico.jpg",
+    "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
+    "category": "Roedores"
+  }
+  [
+  {
+    "name": "Oso de Plástico",
+    "price": "80 MXN",
+    "image": "osodeplastico.jpg",
+    "whatsapp": "Hola, quiero información sobre el Oso de Plastico",
+    "category": "Reptiles"
+  },
+  {
+    "name": "Juguete con Bebedero",
+    "price": "70 MXN",
+    "image": "jugueteconvebedero.jpg",
+    "whatsapp": "Hola, quiero información sobre el Juguete con Bebedero",
+    "category": "Roedores"
+  },
+  {
+    "name": "Pala para Arenero con Bolsa",
+    "price": "40 MXN",
+    "image": "palaparenero.jpg",
+    "whatsapp": "Hola, quiero información sobre la Pala para Arenero",
+    "category": "Gatos"
+  }
+  
+]
+]
+]
+]
 ]
