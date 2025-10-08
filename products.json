@@ -34,12 +34,6 @@
     "whatsapp": "Hola, quiero información sobre el Plato",
     "category": "Perros"
   }
-    "name": "Plato para comer lento",
-    "price": "55 MXN",
-    "image": "ppcomerlento.jpg",
-    "whatsapp": "Hola, quiero información sobre el Plato para comer lento",
-    "category": "Perros"
-  },
   {
     "name": "Plato plegable con base",
     "price": "120 MXN",
@@ -68,7 +62,7 @@
     "image": "pdeaceroymelanina.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de acero y melanina",
     "category": "Perros"
-  },
+  }
   {
     "name": "Plato belly antiderrapante",
     "price": "75 MXN",
