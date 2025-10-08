@@ -1,5 +1,39 @@
 [
   {
+    "name": "Tortuga Pavoreal",
+    "price": "100 MXN",
+    "image": "tortuga.jpg",
+    "whatsapp": "Hola, quiero información sobre la Tortuga de Pavoreal",
+    "category": "Reptiles"
+  },
+  {
+    "name": "Iguana Verde",
+    "price": "200 MXN",
+    "image": "iguana.jpg",
+    "whatsapp": "Hola, quiero información sobre la Iguana Verde",
+    "category": "Reptiles"
+  },
+  {
+    "name": "Plato para comer lento",
+    "price": "55 MXN",
+    "image": "platopcomerlento.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato",
+    "category": "Perros"
+  }
+   {
+    "name": "Plato plagable con base",
+    "price": "120 MXN",
+    "image": "platoplegableconbase.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato",
+    "category": "Perros"
+  }
+   {
+    "name": "Plato plagable con base",
+    "price": "120 MXN",
+    "image": "platoplegableconbase.jpg",
+    "whatsapp": "Hola, quiero información sobre el Plato",
+    "category": "Perros"
+  }
     "name": "Plato para comer lento",
     "price": "55 MXN",
     "image": "ppcomerlento.jpg",
