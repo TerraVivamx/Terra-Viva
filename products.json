@@ -47,17 +47,16 @@
     "image": "pmetalicoantiderrapante.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
     "category": "Perros"
-  }
-  [
-  {
-    "name": "Plato de bambú",
+  },
+   {
+
+   "name": "Plato de bambú",
     "price": "90 MXN",
     "image": "pdebambu.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de bambu",
     "category": "Reptiles"
   },
-  {
-    "name": "Plato de acero y melanina",
+  { "name": "Plato de acero y melanina",
     "price": "100 MXN",
     "image": "pdeaceroymelanina.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de acero y melanina",
@@ -69,10 +68,8 @@
     "image": "pbellyantiderrapante.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
     "category": "Perros"
-  }
-  [
-  {
-    "name": "Plato de melanina",
+  },
+  { "name": "Plato de melanina",
     "price": "45 MXN",
     "image": "pdemelanina.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de melanina",
@@ -91,30 +88,25 @@
     "image": "ppcomerlentogrande.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato para comer lento grande",
     "category": "Perros"
-  }
-  [
-  {
-    "name": "Sofá para Hámster",
+  },
+   { "name": "Sofá para Hámster",
     "price": "60 MXN",
     "image": "sofaphamster.jpg",
     "whatsapp": "Hola, quiero información sobre el Sofá para Hamster",
     "category": "Roedores"
   },
-  {
-    "name": "Castillo de Plástico",
+  {"name": "Castillo de Plástico",
     "price": "150 MXN",
     "image": "castillodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Castillo de Plastico",
     "category": "Roedores"
   },
-  {
-    "name": "Cama de Plástico",
+   {  "name": "Cama de Plástico",
     "price": "60 MXN",
     "image": "camadeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
     "category": "Roedores"
-  }
-  [
+  },
   {
     "name": "Oso de Plástico",
     "price": "80 MXN",
@@ -135,10 +127,5 @@
     "image": "palaparenero.jpg",
     "whatsapp": "Hola, quiero información sobre la Pala para Arenero",
     "category": "Gatos"
-  }
-  
-]
-]
-]
-]
+  }  
 ]
