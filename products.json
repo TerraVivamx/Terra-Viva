@@ -20,7 +20,6 @@
     "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
     "category": "Perros"
   }
-  [
   {
     "name": "Plato de bambú",
     "price": "90 MXN",
@@ -42,7 +41,6 @@
     "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
     "category": "Perros"
   }
-  [
   {
     "name": "Plato de melanina",
     "price": "45 MXN",
@@ -64,7 +62,6 @@
     "whatsapp": "Hola, quiero información sobre el Plato para comer lento grande",
     "category": "Perros"
   }
-  [
   {
     "name": "Sofá para Hámster",
     "price": "60 MXN",
@@ -86,7 +83,6 @@
     "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
     "category": "Roedores"
   }
-  [
   {
     "name": "Oso de Plástico",
     "price": "80 MXN",
@@ -109,8 +105,4 @@
     "category": "Gatos"
   }
   
-]
-]
-]
-]
 ]
