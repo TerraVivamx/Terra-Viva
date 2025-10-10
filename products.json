@@ -28,18 +28,18 @@
     "category": "Perros"
   },
    {
-    "name": "Plato plagable con base",
-    "price": "120 MXN",
-    "image": "platoplegableconbase.jpg",
-    "whatsapp": "Hola, quiero información sobre el Plato",
-    "category": "Perros"
+    "name": "Televisión para Hámster",
+    "price": "60 MXN",
+    "image": "telephamster.jpg",
+    "whatsapp": "Hola, quiero información sobre la Televisión para Hámster",
+    "category": "Roedores"
   },
   {
-    "name": "Plato plegable con base",
-    "price": "120 MXN",
-    "image": "pplegableconbase.jpg",
-    "whatsapp": "Hola, quiero información sobre el Plato plegable con base",
-    "category": "Perros"
+    "name": "Autobús Transportadora",
+    "price": "150 MXN",
+    "image": "autobushamster.jpg",
+    "whatsapp": "Hola, quiero información sobre el Autobús Transportadora",
+    "category": "Roedores"
   },
   {
     "name": "Plato metalico antiderrapante",
@@ -91,41 +91,92 @@
   },
    { "name": "Sofá para Hámster",
     "price": "60 MXN",
-    "image": "sofaphamster.jpg",
+    "image": "imagen/sofaphamster.jpg",
     "whatsapp": "Hola, quiero información sobre el Sofá para Hamster",
     "category": "Roedores"
   },
   {"name": "Castillo de Plástico",
     "price": "150 MXN",
-    "image": "castillodeplastico.jpg",
+    "image": "imagen/castillodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Castillo de Plastico",
     "category": "Roedores"
   },
    {  "name": "Cama de Plástico",
     "price": "60 MXN",
-    "image": "camadeplastico.jpg",
+    "image": "imagen/camadeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
     "category": "Roedores"
   },
   {
     "name": "Oso de Plástico",
     "price": "80 MXN",
-    "image": "osodeplastico.jpg",
+    "image": "imagen/osodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Oso de Plastico",
     "category": "Reptiles"
   },
   {
     "name": "Juguete con Bebedero",
     "price": "70 MXN",
-    "image": "jugueteconvebedero.jpg",
+    "image": "imagen/jugueteconvebedero.jpg",
     "whatsapp": "Hola, quiero información sobre el Juguete con Bebedero",
     "category": "Roedores"
   },
   {
-    "name": "Pala para Arenero con Bolsa",
-    "price": "40 MXN",
-    "image": "palaparenero.jpg",
-    "whatsapp": "Hola, quiero información sobre la Pala para Arenero",
-    "category": "Gatos"
-  }  
+   "name": "Cohete de Cerámica",
+   "price":"100 MXN",
+   "image": "imagen/coheteceramica.jpg",
+   "whatsapp":"Hola, quiero información sobre el Cohete para Hámster",
+   "category": "Roedores"
+  }, 
+  {
+    "name": "Crayola de Cerámica",
+    "price": "90 MXN",
+    "image": "imagen/crayolaceramica.jpg",
+    "whatsapp":"Hola, quiero información sobre la Crayola de Cerámica",
+    "category": "Roedores"
+  },
+  {
+    "name":"Correa Flexi L 5m",
+    "price":"450 MXN",
+    "image": "imagen/correaflexiL.jpg",
+    "whatsapp":"Hola, quiero información sobre la Correa Flexi L",
+    "category":"Perros"
+  },
+  {
+    "name":"Correa Flexi S 0.5m",
+    "price":"350 MXN",
+    "image":"imagen/correaflexiS.jpg",
+    "whatsapp":"Hola, quiero información sobre la Correa Flexi S",
+    "category":"Perros"
+  },
+  {
+    "name":"Flexi Bag Hueso",
+    "price":"900 MXN",
+    "image":"imagen/flexibaghueso.jpg",
+    "whatsapp":"Hola, quiero información sobre la Flexi Bag Hueso",
+    "category":"Perros"
+  },
+  {
+    "name":"Flexi Bag Negra",
+    "price":"900 MXN",
+    "image":"imagen/flexibagnegra.jpg",
+    "whatsapp":"Hola, quiero información sobre la Flexi Bag Negra",
+    "category":"Perros"
+  },
+  {
+    "name":"Libro Pasta Dura",
+    "price":"80 MXN",
+    "image":"imagen/libropastadura.jpg",
+    "whatsapp":"Hola, quiero información sobre el Libro Pasta Dura",
+    "category":"Perros"
+  },
+  {
+    "name":"Libro Pasta Blanda",
+    "price":"60 MXN",
+    "image":"imagen/libropastablanda.jpg",
+    "whatsapp":"Hola, quiero información sobre el Libro Pasta Blanda",
+    "category":"Perros"
+  }
+  
+   
 ]
