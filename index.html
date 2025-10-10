@@ -8,17 +8,27 @@
 </head>
 <body>
   <header>
-    <h1>Terra Viva</h1>
-    <p>Reptiles, mamíferos y Artículos para mascotas a Mayoreo y Menudeo 
-      Compra mínima $500
-    </p>
+    <h1>🐍 Terra Viva</h1>
+    <p>Reptiles, mamíferos y artículos para mascotas — Mayoreo y menudeo</p>
+    <p><strong>Compra mínima: $500 MXN</strong></p>
   </header>
+
+  <nav>
+    <button onclick="filtrarCategoria('Todos')">Todos</button>
+    <button onclick="filtrarCategoria('Reptiles')">Reptiles</button>
+    <button onclick="filtrarCategoria('Roedores')">Roedores</button>
+    <button onclick="filtrarCategoria('Gatos')">Gatos</button>
+    <button onclick="filtrarCategoria('Perros')">Perros</button>
+  </nav>
+
   <main>
-    <div id="products"></div>
+    <div id="products" class="product-grid"></div>
   </main>
+
   <footer>
-    <p>© 2025 Terra Viva - Catálogo digital</p>
+    <p>© 2025 Terra Viva MX</p>
   </footer>
+
   <script src="script.js"></script>
 </body>
 </html>
