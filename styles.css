@@ -1,12 +1,92 @@
-body { font-family: Verdana, sans-serif; margin:0; padding:0; background:#111; color:#eee;}
-header { background:#234d20; padding:1em; text-align:center; color:#fff;}
-h1 { margin:0; }
-#products { display:flex; flex-wrap:wrap; justify-content:center; gap:1em; padding:1em;}
-.card { background:#1b1b1b; border-radius:8px; padding:1em; width:250px; text-align:center;}
-.card img { width:100%; border-radius:8px; }
-button { background:#25d366; border:none; color:white; padding:10px; border-radius:5px; cursor:pointer; margin-top:10px;}
-button:hover { background:#1ebe5d;}
-footer { background:#000; padding:1em; text-align:center; font-size:0.9em;}
+/* Fuente principal */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body {
+  font-family: 'Poppins', Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #111;
+  color: #eee;
+}
+
+/* Encabezado */
+header {
+  background: #234d20;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 600; /* Semi-negrita */
+  letter-spacing: 1px;
+  font-size: 2em;
+}
+
+/* Contenedor de productos */
+#products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  padding: 1em;
+}
+
+/* Tarjetas de productos */
+.card {
+  background: #1b1b1b;
+  border-radius: 8px;
+  padding: 1em;
+  width: 250px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.card h2 {
+  font-weight: 500;
+  font-size: 1.2em;
+  margin: 0.5em 0;
+  letter-spacing: 0.5px;
+}
+
+/* Botones */
+button {
+  font-family: 'Poppins', Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  background: #25d366;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #1ebe5d;
+}
+
+/* Footer */
+footer {
+  background: #000;
+  padding: 1em;
+  text-align: center;
+  font-size: 0.9em;
+}
+
 /* Efecto suave al mostrar/ocultar productos */
 .product {
   transition: opacity 0.4s ease-in-out;
