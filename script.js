@@ -7,7 +7,7 @@ async function loadProducts() {
   products.forEach(p => {
     const card = document.createElement('div');
     card.className = 'product';
-    card.dataset.category = p.category; // for filtering later
+    card.dataset.category = p.category; // para filtrar después
 
     card.innerHTML = `
       <img src="${p.image}" alt="${p.name}">
@@ -23,31 +23,36 @@ async function loadProducts() {
   });
 }
 
-// Filter products by category
+// Filtrar productos por categoría con animación
 function filterCategory(category) {
-  const products = document.querySelectorTodos('.product');
+  const products = document.querySelectorAll('.product');
   products.forEach(prod => {
-    if (category === 'Todos' || prod.dataset.category === category) {
-      prod.style.display = 'block';
-    } else {
-      prod.style.display = 'none';
-    }
+    prod.style.opacity = '0'; // empieza invisible
+    setTimeout(() => {
+      if (category === 'Todos' || prod.dataset.category === category) {
+        prod.style.display = 'block';
+        setTimeout(() => (prod.style.opacity = '1'), 100); // fade in
+      } else {
+        prod.style.opacity = '0'; // fade out
+        setTimeout(() => (prod.style.display = 'none'), 300);
+      }
+    }, 200);
   });
 
-  // Change background according to category
+  // Cambiar fondo según la categoría
   const bg = document.body;
   switch (category) {
     case 'Reptiles':
       bg.style.backgroundImage = "url('images/bg-reptiles.jpg')";
       break;
     case 'Roedores':
-      bg.style.backgroundImage = "url('images/bg-rodents.jpg')";
+      bg.style.backgroundImage = "url('images/bg-roedores.jpg')";
       break;
     case 'Gatos':
-      bg.style.backgroundImage = "url('images/bg-cats.jpg')";
+      bg.style.backgroundImage = "url('images/bg-gatos.jpg')";
       break;
     case 'Perros':
-      bg.style.backgroundImage = "url('images/bg-dogs.jpg')";
+      bg.style.backgroundImage = "url('images/bg-perros.jpg')";
       break;
     default:
       bg.style.backgroundImage = "none";
@@ -57,5 +62,5 @@ function filterCategory(category) {
   bg.style.backgroundAttachment = "fixed";
 }
 
-// Load products when page opens
+// Cargar productos al iniciar
 loadProducts();
