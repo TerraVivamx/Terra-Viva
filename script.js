@@ -6,16 +6,16 @@ async function loadProducts() {
 
   products.forEach(p => {
     const card = document.createElement('div');
-    card.className = 'producto';
-    card.dataset.categoria = p.categoria; // para filtrar después
+    card.className = 'product';
+    card.dataset.category = p.category; // for filtering later
 
     card.innerHTML = `
-      <img src="${p.imagen}" alt="${p.nombre}">
-      <h3>${p.nombre}</h3>
-      <p>${p.descripcion || ''}</p>
-      <strong>${p.precio} MXN</strong><br>
+      <img src="${p.image}" alt="${p.name}">
+      <h3>${p.name}</h3>
+      <p>${p.description || ''}</p>
+      <strong>${p.price} MXN</strong><br>
       <a href="${p.link}" target="_blank">
-        <button>Comprar por WhatsApp</button>
+        <button>Buy via WhatsApp</button>
       </a>
     `;
 
@@ -23,39 +23,39 @@ async function loadProducts() {
   });
 }
 
-// Filtrar productos por categoría
-function filtrarCategoria(categoria) {
-  const productos = document.querySelectorAll('.producto');
-  productos.forEach(prod => {
-    if (categoria === 'Todos' || prod.dataset.categoria === categoria) {
+// Filter products by category
+function filterCategory(category) {
+  const products = document.querySelectorAll('.product');
+  products.forEach(prod => {
+    if (category === 'All' || prod.dataset.category === category) {
       prod.style.display = 'block';
     } else {
       prod.style.display = 'none';
     }
   });
 
-  // Cambiar fondo según la categoría
-  const fondo = document.body;
-  switch (categoria) {
+  // Change background according to category
+  const bg = document.body;
+  switch (category) {
     case 'Reptiles':
-      fondo.style.backgroundImage = "url('images/fondo-reptiles.jpg')";
+      bg.style.backgroundImage = "url('images/bg-reptiles.jpg')";
       break;
-    case 'Roedores':
-      fondo.style.backgroundImage = "url('images/fondo-roedores.jpg')";
+    case 'Rodents':
+      bg.style.backgroundImage = "url('images/bg-rodents.jpg')";
       break;
-    case 'Gatos':
-      fondo.style.backgroundImage = "url('images/fondo-gatos.jpg')";
+    case 'Cats':
+      bg.style.backgroundImage = "url('images/bg-cats.jpg')";
       break;
-    case 'Perros':
-      fondo.style.backgroundImage = "url('images/fondo-perros.jpg')";
+    case 'Dogs':
+      bg.style.backgroundImage = "url('images/bg-dogs.jpg')";
       break;
     default:
-      fondo.style.backgroundImage = "none";
+      bg.style.backgroundImage = "none";
   }
 
-  fondo.style.backgroundSize = "cover";
-  fondo.style.backgroundAttachment = "fixed";
+  bg.style.backgroundSize = "cover";
+  bg.style.backgroundAttachment = "fixed";
 }
 
-// Ejecutar al cargar
+// Load products when page opens
 loadProducts();
