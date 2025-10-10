@@ -61,7 +61,7 @@
     "price": "90 MXN",
     "image": "imagen/pdebambu.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de bambu",
-    "category": "Reptiles",
+    "category": "Perros",
     "description": "Plato de Bambú de 500ml. Ideal para perros pequeños a medianos."
   },
   { "name": "Plato de acero y melanina",
@@ -128,7 +128,7 @@
     "price": "80 MXN",
     "image": "imagen/osodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Oso de Plastico",
-    "category": "Reptiles",
+    "category": "Roedores",
     "description": "Juguete para hurón o roedores medianos."
   },
   {
