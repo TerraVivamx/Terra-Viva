@@ -88,14 +88,14 @@ footer {
   text-align: center;
   font-size: 1em;
   letter-spacing: 0.5px;
-}
-
 /* Efecto suave al mostrar/ocultar productos */
+}
 .product {
   transition: opacity 0.4s ease-in-out;
 }
+
 /* Ajuste de tamaño de las imágenes de producto */
-.product imagen {
+.product img {
   width: 180px;        /* Ancho máximo */
   height: 180px;       /* Alto máximo */
   object-fit: cover;   /* Recorta la imagen sin deformarla */
