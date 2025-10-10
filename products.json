@@ -210,6 +210,14 @@
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Blanda",
     "category":"Perros",
     "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
+  },
+  {
+    "name":"Pala para arenero",
+    "price":"40 MXN",
+    "image":"imagen/palaparenero.jpg",
+    "whatsapp":"Hola, quiero información sobre la Pala para arenero",
+    "category":"Gatos",
+    "description": "Pala para arenero con 1 paquete de bolsas incluidas."
   }
   
    
