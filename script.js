@@ -15,7 +15,7 @@ async function loadProducts() {
       <p>${p.description || ''}</p>
       <strong>${p.price} MXN</strong><br>
       <a href="${p.link}" target="_blank">
-        <button>Buy via WhatsApp</button>
+        <button>Comprar vía WhatsApp</button>
       </a>
     `;
 
