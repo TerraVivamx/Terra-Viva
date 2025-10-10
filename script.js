@@ -25,9 +25,9 @@ async function loadProducts() {
 
 // Filter products by category
 function filterCategory(category) {
-  const products = document.querySelectorAll('.product');
+  const products = document.querySelectorTodos('.product');
   products.forEach(prod => {
-    if (category === 'All' || prod.dataset.category === category) {
+    if (category === 'Todos' || prod.dataset.category === category) {
       prod.style.display = 'block';
     } else {
       prod.style.display = 'none';
@@ -40,13 +40,13 @@ function filterCategory(category) {
     case 'Reptiles':
       bg.style.backgroundImage = "url('images/bg-reptiles.jpg')";
       break;
-    case 'Rodents':
+    case 'Roedores':
       bg.style.backgroundImage = "url('images/bg-rodents.jpg')";
       break;
-    case 'Cats':
+    case 'Gatos':
       bg.style.backgroundImage = "url('images/bg-cats.jpg')";
       break;
-    case 'Dogs':
+    case 'Perros':
       bg.style.backgroundImage = "url('images/bg-dogs.jpg')";
       break;
     default:
