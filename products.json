@@ -2,7 +2,7 @@
   {
     "name": "Tortuga Pavoreal",
     "price": "100 MXN",
-    "imagen de producto": "imagen/tortuga.jpg",
+    "imagen de producto": "imagen/tortuga.jpg.JPG",
     "whatsapp": "Hola, quiero información sobre la Tortuga de Pavoreal",
     "category": "Reptiles",
     "description": ""
@@ -10,7 +10,7 @@
   {
     "name": "Iguana Verde",
     "price": "200 MXN",
-    "image": "imagen/iguana.jpg",
+    "image": "imagen/iguana.jpg.JPG",
     "whatsapp": "Hola, quiero información sobre la Iguana Verde",
     "category": "Reptiles",
     "description": ""
@@ -26,7 +26,7 @@
    {
     "name": "Plato plagable con base",
     "price": "120 MXN",
-    "image": "imagen/platoplegableconbase.jpg",
+    "image": "imagen/platoplegableconbase.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato",
     "category": "Perros",
     "description": "Ayuda a mejorar la postura de nuestra mascota sin forzar su columna."
@@ -50,7 +50,7 @@
   {
     "name": "Plato metalico antiderrapante",
     "price": "130 MXN",
-    "image": "imagen/pmetalicoantiderrapante.jpg",
+    "image": "imagen/pmetalicoantiderrapante.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
     "category": "Perros",
     "description": "Ideal para perros grandes. Existencia en distintos tonos lisos y con líneas."
@@ -74,14 +74,14 @@
   {
     "name": "Plato belly antiderrapante chico",
     "price": "75 MXN",
-    "image": "imagen/pbellyantiderrapante.jpg.png", 
+    "image": "imagen/pbellyantiderrapante.jpg.PNG", 
     "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
     "category": "Perros",
     "description": "plato con capacidad de 180 ml. Ideal para perros pequeños."
   },
   { "name": "Plato de melanina",
     "price": "45 MXN",
-    "image": "imagen/pdemelanina.jpg",
+    "image": "imagen/pdemelanina.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato de melanina",
     "category": "Perros",
     "description": "Plato de 200 ml. Ideal para perros pequeños."
@@ -89,7 +89,7 @@
   {
     "name": "Plato fusion bowl",
     "price": "65 MXN",
-    "image": "imagen/pfusionbowl.jpg",
+    "image": "imagen/pfusionbowl.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato fusion bowl",
     "category": "Perros",
     "description": "Plato de 425 ml. Ideal para perros pequeños."
@@ -111,14 +111,14 @@
   },
   {"name": "Castillo de Plástico",
     "price": "150 MXN",
-    "image": "imagen/castillodeplastico.jpg.png",
+    "image": "imagen/castillodeplastico.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Castillo de Plastico",
     "category": "Roedores",
     "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
    {  "name": "Cama de Plástico",
     "price": "60 MXN",
-    "image": "imagen/camadeplastico.jpg.png",
+    "image": "imagen/camadeplastico.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
     "category": "Roedores",
     "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
@@ -126,7 +126,7 @@
   {
     "name": "Oso de Plástico",
     "price": "80 MXN",
-    "image": "imagen/osodeplastico.jpg.png",
+    "image": "imagen/osodeplastico.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Oso de Plastico",
     "category": "Roedores",
     "description": "Juguete para hurón o roedores medianos."
@@ -134,7 +134,7 @@
   {
     "name": "Juguete con Bebedero",
     "price": "70 MXN",
-    "image": "imagen/jugueteconvebedero.jpg",
+    "image": "imagen/jugueteconvebedero.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Juguete con Bebedero",
     "category": "Roedores",
     "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
