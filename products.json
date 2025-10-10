@@ -2,180 +2,214 @@
   {
     "name": "Tortuga Pavoreal",
     "price": "100 MXN",
-    "image": "tortuga.jpg",
+    "image": "imagen/tortuga.jpg",
     "whatsapp": "Hola, quiero información sobre la Tortuga de Pavoreal",
-    "category": "Reptiles"
+    "category": "Reptiles",
+    "description": ""
   },
   {
     "name": "Iguana Verde",
     "price": "200 MXN",
-    "image": "iguana.jpg",
+    "image": "imagen/iguana.jpg",
     "whatsapp": "Hola, quiero información sobre la Iguana Verde",
-    "category": "Reptiles"
+    "category": "Reptiles",
+    "description": ""
   },
   {
     "name": "Plato para comer lento",
     "price": "55 MXN",
-    "image": "platopcomerlento.jpg",
+    "image": "imagen/platopcomerlento.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Ayuda a que nuestra mascota coma de forma adecuada. Ideal para perros pequeños."
   },
    {
     "name": "Plato plagable con base",
     "price": "120 MXN",
-    "image": "platoplegableconbase.jpg",
+    "image": "imagen/platoplegableconbase.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Ayuda a mejorar la postura de nuestra mascota sin forzar su columna."
   },
    {
     "name": "Televisión para Hámster",
     "price": "60 MXN",
-    "image": "telephamster.jpg",
+    "image": "imagen/telephamster.jpg",
     "whatsapp": "Hola, quiero información sobre la Televisión para Hámster",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
   {
     "name": "Autobús Transportadora",
     "price": "150 MXN",
-    "image": "autobushamster.jpg",
+    "image": "imagen/autobushamster.jpg",
     "whatsapp": "Hola, quiero información sobre el Autobús Transportadora",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Transportadora en forma de camión que también se puede adaptar a la jaula de nuestros pequeños roedores. Ideal para hámster y ratones."
   },
   {
     "name": "Plato metalico antiderrapante",
     "price": "130 MXN",
-    "image": "pmetalicoantiderrapante.jpg",
+    "image": "imagen/pmetalicoantiderrapante.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Ideal para perros grandes. Existencia en distintos tonos lisos y con líneas."
   },
    {
 
    "name": "Plato de bambú",
     "price": "90 MXN",
-    "image": "pdebambu.jpg",
+    "image": "imagen/pdebambu.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de bambu",
-    "category": "Reptiles"
+    "category": "Reptiles",
+    "description": "Plato de Bambú de 500ml. Ideal para perros pequeños a medianos."
   },
   { "name": "Plato de acero y melanina",
     "price": "100 MXN",
-    "image": "pdeaceroymelanina.jpg",
+    "image": "imagen/pdeaceroymelanina.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de acero y melanina",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Plato de 250ml. ideal para perros pequeños a medianos."
   },
   {
-    "name": "Plato belly antiderrapante",
+    "name": "Plato belly antiderrapante chico",
     "price": "75 MXN",
-    "image": "pbellyantiderrapante.jpg",
+    "image": "imagen/pbellyantiderrapante.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "plato con capacidad de 180 ml. Ideal para perros pequeños."
   },
   { "name": "Plato de melanina",
     "price": "45 MXN",
-    "image": "pdemelanina.jpg",
+    "image": "imagen/pdemelanina.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato de melanina",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Plato de 200 ml. Ideal para perros pequeños."
   },
   {
     "name": "Plato fusion bowl",
     "price": "65 MXN",
-    "image": "pfusionbowl.jpg",
+    "image": "imagen/pfusionbowl.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato fusion bowl",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Plato de 425 ml. Ideal para perros pequeños."
   },
   {
     "name": "Plato para comer lento grande",
     "price": "80 MXN",
-    "image": "ppcomerlentogrande.jpg",
+    "image": "imagen/ppcomerlentogrande.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato para comer lento grande",
-    "category": "Perros"
+    "category": "Perros",
+    "description": "Ayuda a que nuestra mascota coma de forma adecuada. Ideal para perros medianos a grandes."
   },
    { "name": "Sofá para Hámster",
     "price": "60 MXN",
     "image": "imagen/sofaphamster.jpg",
     "whatsapp": "Hola, quiero información sobre el Sofá para Hamster",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
   {"name": "Castillo de Plástico",
     "price": "150 MXN",
     "image": "imagen/castillodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Castillo de Plastico",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
    {  "name": "Cama de Plástico",
     "price": "60 MXN",
     "image": "imagen/camadeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre la Cama de Plastico",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
   {
     "name": "Oso de Plástico",
     "price": "80 MXN",
     "image": "imagen/osodeplastico.jpg",
     "whatsapp": "Hola, quiero información sobre el Oso de Plastico",
-    "category": "Reptiles"
+    "category": "Reptiles",
+    "description": "Juguete para hurón o roedores medianos."
   },
   {
     "name": "Juguete con Bebedero",
     "price": "70 MXN",
     "image": "imagen/jugueteconvebedero.jpg",
     "whatsapp": "Hola, quiero información sobre el Juguete con Bebedero",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
   {
    "name": "Cohete de Cerámica",
    "price":"100 MXN",
    "image": "imagen/coheteceramica.jpg",
    "whatsapp":"Hola, quiero información sobre el Cohete para Hámster",
-   "category": "Roedores"
+   "category": "Roedores",
+  "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   }, 
   {
     "name": "Crayola de Cerámica",
     "price": "90 MXN",
     "image": "imagen/crayolaceramica.jpg",
     "whatsapp":"Hola, quiero información sobre la Crayola de Cerámica",
-    "category": "Roedores"
+    "category": "Roedores",
+    "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   },
   {
     "name":"Correa Flexi L 5m",
     "price":"450 MXN",
     "image": "imagen/correaflexiL.jpg",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi L",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Correa extensible para perros de máximo 50kg. Alcanza 5m."
   },
   {
     "name":"Correa Flexi S 0.5m",
     "price":"350 MXN",
-    "image":"imagen/correaflexiS.jpg",
+   "image":"imagen/correaflexiS.jpg",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi S",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Correa extensible para perros de máximo 35 kg. Alcanza 0.5m."
+  },
+  {
+    "name":"Correa Flexi M 5m",
+    "price":"350 MXN",
+   "image":"imagen/correaflexiM.jpg",
+    "whatsapp":"Hola, quiero información sobre la Correa Flexi M",
+    "category":"Perros",
+    "description": "Correa extensible para perros de máximo 20kg. Alcanza 5m."
   },
   {
     "name":"Flexi Bag Hueso",
     "price":"900 MXN",
     "image":"imagen/flexibaghueso.jpg",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Hueso",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Bolsa/cangurera. Ideal para pasear a nuestro perro. Con espacios para correa, bolsas y más."
   },
   {
     "name":"Flexi Bag Negra",
     "price":"900 MXN",
     "image":"imagen/flexibagnegra.jpg",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Negra",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Bolsa/cangurera. Ideal para pasear a nuestro perro. Con espacios para correa, bolsas y más."
   },
   {
     "name":"Libro Pasta Dura",
     "price":"80 MXN",
     "image":"imagen/libropastadura.jpg",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Dura",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
   },
   {
     "name":"Libro Pasta Blanda",
     "price":"60 MXN",
     "image":"imagen/libropastablanda.jpg",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Blanda",
-    "category":"Perros"
+    "category":"Perros",
+    "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
   }
   
    
