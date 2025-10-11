@@ -20,9 +20,9 @@ header {
 
 h1 {
   margin: 0;
-  font-weight: 700; /* Negrita completa para destacar */
-  letter-spacing: 2px; /* Más espacio entre letras */
-  font-size: 2.5em;   /* Más grande */
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 2.5em;
 }
 
 /* Contenedor de productos */
@@ -53,7 +53,7 @@ h1 {
   font-weight: 600;
   font-size: 1.4em; 
   margin: 0.7em 0 0.5em 0;
-  letter-spacing: 1px; /* Más ancho */
+  letter-spacing: 1px;
 }
 
 /* Botones */
@@ -83,10 +83,13 @@ footer {
   text-align: center;
   font-size: 1em;
   letter-spacing: 0.5px;
+}
+
 /* Efecto suave al mostrar/ocultar productos */
 .product {
   transition: opacity 0.4s ease-in-out;
 }
+
 /* Forzar tamaño correcto de las imágenes en productos */
 .product img {
   width: 180px !important;
