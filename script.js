@@ -62,6 +62,9 @@ function filterCategory(category) {
     case 'Reptiles':
       bg.style.backgroundImage = "url('images/bg-reptiles.jpg')";
       break;
+    case 'Aves':
+      bg.style.backgroundImage = "url('images/bg-aves.jpg')";
+      break;
     case 'Roedores':
       bg.style.backgroundImage = "url('images/bg-roedores.jpg')";
       break;
