@@ -89,12 +89,30 @@ footer {
 .product {
   transition: opacity 0.4s ease-in-out;
 }
-/* 🔧 Fuerza el tamaño de las imágenes de los productos */
-#products img {
-  width: 200px !important;
-  height: 200px !important;
-  object-fit: cover !important;
-  border-radius: 10px !important;
-  display: block !important;
-  margin: 0 auto 10px !important;
+.product {
+  background: #1b1b1b;
+  border-radius: 12px;
+  padding: 1em;
+  width: 220px; /* mismo ancho que la imagen */
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.product img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.product h3,
+.product p,
+.product strong,
+.product button {
+  max-width: 220px;
 }
