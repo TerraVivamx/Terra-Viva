@@ -4,32 +4,35 @@ async function loadProducts() {
   const container = document.getElementById('products');
   container.innerHTML = '';
 
-  products.forEach(p => {
-    const card = document.createElement('div');
-    card.className = 'product';
-    card.dataset.category = p.category;
+products.forEach(p => {
+  const card = document.createElement('div');
+  card.className = 'product';
+  card.dataset.category = p.category;
 
-    // --- BLOQUE DE PRECIO Y DESCUENTO ---
-    let priceHTML = `<strong>${p.price} MXN</strong>`;
-    if (p.discount) {
-      const discounted = (p.price * (1 - p.discount / 100)).toFixed(2);
-      priceHTML = `
-        <p style="text-decoration: line-through; color: #888;">${p.price} MXN</p>
-        <strong style="color:#25d366;">${discounted} MXN (${p.discount}% OFF)</strong>
-      `;
-    }
+  // Convertir precio a número por si viene como texto
+  const price = parseFloat(p.price);
 
-    // --- ESTRUCTURA DE LA TARJETA ---
-    card.innerHTML = `
-      <img src="${p.image}" alt="${p.name}">
-      <h3>${p.name}</h3>
-      <p>${p.description || ''}</p>
-      ${priceHTML}<br>
-      <button onclick="sendWhatsAppMessage('${p.name}')">Comprar vía WhatsApp</button>
+  // --- BLOQUE DE PRECIO Y DESCUENTO ---
+  let priceHTML = `<strong>${price.toFixed(2)} MXN</strong>`;
+  if (p.discount && p.discount > 0) {
+    const newPrice = (price * (1 - p.discount / 100)).toFixed(2);
+    priceHTML = `
+      <p style="text-decoration: line-through; color: #888;">${price.toFixed(2)} MXN</p>
+      <strong style="color:#25d366;">${newPrice} MXN (${p.discount}% OFF)</strong>
     `;
+  }
 
-    container.appendChild(card);
-  });
+  // --- ESTRUCTURA DE LA TARJETA ---
+  card.innerHTML = `
+    <img src="${p.image}" alt="${p.name}">
+    <h3>${p.name}</h3>
+    <p>${p.description || ''}</p>
+    ${priceHTML}<br>
+    <button onclick="sendWhatsAppMessage('${p.name}')">Comprar vía WhatsApp</button>
+  `;
+
+  container.appendChild(card);
+});
 }
 
 // --- FUNCIÓN PARA ENVIAR MENSAJE DE WHATSAPP ---
