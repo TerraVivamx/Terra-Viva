@@ -93,7 +93,7 @@ footer {
   transition: opacity 0.4s ease-in-out;
 }
 /* Forzar tamaño correcto de las imágenes en productos */
-.product imagen {
+.product image {
   width: 180px !important;
   height: 180px !important;
   object-fit: cover;
