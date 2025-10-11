@@ -74,6 +74,9 @@ function filterCategory(category) {
     case 'Perros':
       bg.style.backgroundImage = "url('images/IMG_1934.gif')";
       break;
+    case 'Mamíferos':
+      bg.style.backgroundImage = "url('images/IMG_1933.webp')";
+      break;
     default:
       bg.style.backgroundImage = "none";
   }
