@@ -103,3 +103,12 @@ footer {
   display: block;
   margin: 0 auto 10px; /* Centrada con espacio abajo */
 }
+/* Forzar tamaño correcto de las imágenes en productos */
+.product img {
+  width: 180px !important;
+  height: 180px !important;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto 10px;
+}
