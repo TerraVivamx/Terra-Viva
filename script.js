@@ -60,7 +60,7 @@ function filterCategory(category) {
   const bg = document.body;
   switch (category) {
     case 'Reptiles':
-      bg.style.backgroundImage = "url('images/bg-reptiles.jpg')";
+      bg.style.backgroundImage = "url('images/IMG_1932.jpeg')";
       break;
     case 'Aves':
       bg.style.backgroundImage = "url('images/bg-aves.jpg')";
