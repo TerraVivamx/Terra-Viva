@@ -69,10 +69,10 @@ function filterCategory(category) {
       bg.style.backgroundImage = "url('images/bg-roedores.jpg')";
       break;
     case 'Gatos':
-      bg.style.backgroundImage = "url('images/bg-gatos.jpg')";
+      bg.style.backgroundImage = "url('images/IMG_1935.jpeg')";
       break;
     case 'Perros':
-      bg.style.backgroundImage = "url('images/bg-perros.jpg')";
+      bg.style.backgroundImage = "url('images/IMG_1934.gif')";
       break;
     default:
       bg.style.backgroundImage = "none";
