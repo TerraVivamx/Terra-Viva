@@ -18,7 +18,7 @@
   {
     "name": "Plato para comer lento",
     "price": "55 MXN",
-    "image": "images/platopcomerlento.jpg",
+    "image": "images/F9B1D601-B9CE-48D2-A555-ED336F19F353.png",
     "whatsapp": "Hola, quiero información sobre el Plato",
     "category": "Perros",
     "description": "Ayuda a que nuestra mascota coma de forma adecuada. Ideal para perros pequeños."
@@ -34,7 +34,7 @@
    {
     "name": "Televisión para Hámster",
     "price": "60 MXN",
-    "image": "images/telephamster.jpg",
+    "image": "images/Photoroom_20251011_093617.png",
     "whatsapp": "Hola, quiero información sobre la Televisión para Hámster",
     "category": "Roedores",
     "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
@@ -42,7 +42,7 @@
   {
     "name": "Autobús Transportadora",
     "price": "150 MXN",
-    "image": "images/autobushamster.jpg",
+    "image": "images/Photoroom_20251011_101205.png",
     "whatsapp": "Hola, quiero información sobre el Autobús Transportadora",
     "category": "Roedores",
     "description": "Transportadora en forma de camión que también se puede adaptar a la jaula de nuestros pequeños roedores. Ideal para hámster y ratones."
@@ -59,7 +59,7 @@
 
    "name": "Plato de bambú",
     "price": "90 MXN",
-    "image": "images/pdebambu.jpg",
+    "image": "images/D349F00C-76CA-4FA9-9A98-54FFD89A5B29.png",
     "whatsapp": "Hola, quiero información sobre el Plato de bambu",
     "category": "Perros",
     "description": "Plato de Bambú de 500ml. Ideal para perros pequeños a medianos."
@@ -142,15 +142,15 @@
   {
    "name": "Cohete de Cerámica",
    "price":"100 MXN",
-   "image": "images/coheteceramica.jpg",
+   "image": "images/E113B5C7-9F2B-4A47-83D9-02CAA6C5C95C.png",
    "whatsapp":"Hola, quiero información sobre el Cohete para Hámster",
    "category": "Roedores",
   "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
   }, 
   {
-    "name": "Crayola de Cerámica",
+    "name": "Camión de Cerámica",
     "price": "90 MXN",
-    "image": "images/crayolaceramica.jpg",
+    "image": "images/Photoroom_20251011_101112.jpeg",
     "whatsapp":"Hola, quiero información sobre la Crayola de Cerámica",
     "category": "Roedores",
     "description": "Escondite/cama para nuestros pequeños roedores. Ideal para Hámster y ratones pequeños."
@@ -158,7 +158,7 @@
   {
     "name":"Correa Flexi L 5m",
     "price":"450 MXN",
-    "image": "images/correaflexiL.jpg",
+    "image": "images/Photoroom_20251011_093453.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi L",
     "category":"Perros",
     "description": "Correa extensible para perros de máximo 50kg. Alcanza 5m."
@@ -166,7 +166,7 @@
   {
     "name":"Correa Flexi S 0.5m",
     "price":"350 MXN",
-   "image":"images/correaflexiS.jpg",
+   "image":"images/Photoroom_20251011_093340.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi S",
     "category":"Perros",
     "description": "Correa extensible para perros de máximo 35 kg. Alcanza 0.5m."
@@ -174,7 +174,7 @@
   {
     "name":"Correa Flexi M 5m",
     "price":"350 MXN",
-   "image":"images/correaflexiM.jpg",
+   "image":"images/Photoroom_20251011_093424.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi M",
     "category":"Perros",
     "description": "Correa extensible para perros de máximo 20kg. Alcanza 5m."
@@ -182,7 +182,7 @@
   {
     "name":"Flexi Bag Hueso",
     "price":"900 MXN",
-    "image":"images/flexibaghueso.jpg",
+    "image":"images/Photoroom_20251011_101011.png",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Hueso",
     "category":"Perros",
     "description": "Bolsa/cangurera. Ideal para pasear a nuestro perro. Con espacios para correa, bolsas y más."
@@ -198,7 +198,7 @@
   {
     "name":"Libro Pasta Dura",
     "price":"80 MXN",
-    "image":"images/libropastadura.jpg",
+    "image":"images/Photoroom_20251011_093049.png",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Dura",
     "category":"Perros",
     "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
@@ -206,7 +206,7 @@
   {
     "name":"Libro Pasta Blanda",
     "price":"60 MXN",
-    "image":"images/libropastablanda.jpg",
+    "image":"images/Photoroom_20251011_080310.png",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Blanda",
     "category":"Perros",
     "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
@@ -214,7 +214,7 @@
   {
     "name":"Pala para arenero",
     "price":"40 MXN",
-    "image":"images/palaparenero.jpg",
+    "image":"images/IMG_1896.jpeg",
     "whatsapp":"Hola, quiero información sobre la Pala para arenero",
     "category":"Gatos",
     "description": "Pala para arenero con 1 paquete de bolsas incluidas."
