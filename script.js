@@ -63,7 +63,7 @@ function filterCategory(category) {
       bg.style.backgroundImage = "url('images/IMG_1932.jpeg')";
       break;
     case 'Aves':
-      bg.style.backgroundImage = "url('images/bg-aves.jpg')";
+      bg.style.backgroundImage = "url('images/IMG_1938.jpeg')";
       break;
     case 'Roedores':
       bg.style.backgroundImage = "url('images/bg-roedores.jpg')";
