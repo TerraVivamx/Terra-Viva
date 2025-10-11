@@ -14,9 +14,7 @@ async function loadProducts() {
       <h3>${p.name}</h3>
       <p>${p.description || ''}</p>
       <strong>${p.price} MXN</strong><br>
-      <a href="${p.link}" target="_blank">
-        <button>Comprar vía WhatsApp</button>
-      </a>
+      <button onclick="sendWhatsAppMessage('${p.name}')">Comprar vía WhatsApp</button>
     `;
 
     container.appendChild(card);
@@ -64,3 +62,9 @@ function filterCategory(category) {
 
 // Cargar productos al iniciar
 loadProducts();
+function sendWhatsAppMessage(productName) {
+  const phone = "5215523456789"; // ← cambia por tu número con lada (sin + ni espacios)
+  const message = `Hola! Estoy interesado en el producto "${productName}". ¿Podrías darme más información?`;
+  const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+  window.open(url, '_blank');
+}
