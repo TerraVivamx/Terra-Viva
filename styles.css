@@ -92,17 +92,6 @@ footer {
 .product {
   transition: opacity 0.4s ease-in-out;
 }
-
-/* Ajuste de tamaño de las imágenes de producto */
-.product img,
-.card img {
-  width: 180px;        /* Ancho máximo */
-  height: 180px;       /* Alto máximo */
-  object-fit: cover;   /* Recorta la imagen sin deformarla */
-  border-radius: 10px; /* Bordes ligeramente redondeados */
-  display: block;
-  margin: 0 auto 10px; /* Centrada con espacio abajo */
-}
 /* Forzar tamaño correcto de las imágenes en productos */
 .product img {
   width: 180px !important;
