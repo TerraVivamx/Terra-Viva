@@ -181,9 +181,8 @@
   },
   {
     "name":"Flexi Bag Hueso",
-    "price":"1300 MXN",
-    "discount":"30",
-    "newPrice":"900 MXN",
+    "price":1300,
+    "discount":30,
     "image":"images/Photoroom_20251011_101011.png",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Hueso",
     "category":"Perros",
@@ -191,7 +190,8 @@
   },
   {
     "name":"Flexi Bag Negra",
-    "price":"900 MXN",
+    "price":1300,
+    "discount":30,
     "image":"images/flexibagnegra.jpg",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Negra",
     "category":"Perros",
