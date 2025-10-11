@@ -99,3 +99,12 @@ footer {
   display: block;
   margin: 0 auto 10px;
 }
+/* 🔧 Fuerza el tamaño de las imágenes de los productos */
+#products img {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  border-radius: 10px !important;
+  display: block !important;
+  margin: 0 auto 10px !important;
+}
