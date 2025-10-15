@@ -65,16 +65,16 @@ function filterCategory(category) {
     case 'Reptiles':
       bg.style.backgroundImage = "url('images/IMG_1932.jpeg')";
       break;
-    case 'Aves':
+    case 'Artículos Aves':
       bg.style.backgroundImage = "url('images/IMG_1938.jpeg')";
       break;
     case 'Roedores':
       bg.style.backgroundImage = "url('images/IMG_1940.jpeg')";
       break;
-    case 'Artículos para Gatos':
+    case 'Artículos Gatos':
       bg.style.backgroundImage = "url('images/IMG_1935.jpeg')";
       break;
-    case 'Artículos para Perros':
+    case 'Artículos Perros':
       bg.style.backgroundImage = "url('images/IMG_1934.gif')";
       break;
     case 'Mamíferos':
