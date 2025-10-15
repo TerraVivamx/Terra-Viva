@@ -71,10 +71,10 @@ function filterCategory(category) {
     case 'Roedores':
       bg.style.backgroundImage = "url('images/IMG_1940.jpeg')";
       break;
-    case 'Gatos':
+    case 'Artículos para Gatos':
       bg.style.backgroundImage = "url('images/IMG_1935.jpeg')";
       break;
-    case 'Perros':
+    case 'Artículos para Perros':
       bg.style.backgroundImage = "url('images/IMG_1934.gif')";
       break;
     case 'Mamíferos':
