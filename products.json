@@ -7,6 +7,14 @@
     "category": "Reptiles",
     "description": ""
   },
+    {
+    "name": "Tortuga Patas Rojas",
+    "price": "3500 MXN",
+    "image": "images/tortuga",
+    "whatsapp": "Hola, quiero información sobre la Tortuga de Patas Rojas",
+    "category": "Reptiles",
+    "description": ""
+  },
   {
     "name": "Iguana Verde",
     "price": "200 MXN",
@@ -220,15 +228,5 @@
     "whatsapp":"Hola, quiero información sobre la Pala para arenero",
     "category":"Artículos para Gatos",
     "description": "Pala para arenero con 1 paquete de bolsas incluidas."
-  },
-    {
-    "name": "Tortuga Patas Rojas",
-    "price": "3500 MXN",
-    "image": "images/tortuga",
-    "whatsapp": "Hola, quiero información sobre la Tortuga de Patas Rojas",
-    "category": "Reptiles",
-    "description": ""
   }
-  
-   
 ]
