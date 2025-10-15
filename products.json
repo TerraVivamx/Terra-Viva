@@ -28,7 +28,7 @@
     "price": "55 MXN",
     "image": "images/F9B1D601-B9CE-48D2-A555-ED336F19F353.png",
     "whatsapp": "Hola, quiero información sobre el Plato",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Ayuda a que nuestra mascota coma de forma adecuada. Ideal para perros pequeños."
   },
    {
@@ -36,7 +36,7 @@
     "price": "120 MXN",
     "image": "images/platoplegableconbase.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Ayuda a mejorar la postura de nuestra mascota sin forzar su columna."
   },
    {
@@ -60,7 +60,7 @@
     "price": "130 MXN",
     "image": "images/pmetalicoantiderrapante.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato metalico antiderrapante",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Ideal para perros grandes. Existencia en distintos tonos lisos y con líneas."
   },
    {
@@ -69,14 +69,14 @@
     "price": "90 MXN",
     "image": "images/D349F00C-76CA-4FA9-9A98-54FFD89A5B29.png",
     "whatsapp": "Hola, quiero información sobre el Plato de bambu",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Plato de Bambú de 500ml. Ideal para perros pequeños a medianos."
   },
   { "name": "Plato de acero y melanina",
     "price": "100 MXN",
     "image": "images/Photoroom_20251014_094058.png",
     "whatsapp": "Hola, quiero información sobre el Plato de acero y melanina",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Plato de 250ml. ideal para perros pequeños a medianos."
   },
   {
@@ -84,14 +84,14 @@
     "price": "75 MXN",
     "image": "images/pbellyantiderrapante.jpg.PNG", 
     "whatsapp": "Hola, quiero información sobre el Plato belly antiderrapante",
-    "category": "Artículos para Perros"
+    "category": "Artículos Perros"
     "description": "plato con capacidad de 180 ml. Ideal para perros pequeños."
   },
   { "name": "Plato de melanina",
     "price": "45 MXN",
     "image": "images/pdemelanina.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato de melanina",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Plato de 200 ml. Ideal para perros pequeños."
   },
   {
@@ -99,7 +99,7 @@
     "price": "65 MXN",
     "image": "images/pfusionbowl.jpg.PNG",
     "whatsapp": "Hola, quiero información sobre el Plato fusion bowl",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Plato de 425 ml. Ideal para perros pequeños."
   },
   {
@@ -107,7 +107,7 @@
     "price": "80 MXN",
     "image": "images/ppcomerlentogrande.jpg",
     "whatsapp": "Hola, quiero información sobre el Plato para comer lento grande",
-    "category": "Artículos para Perros",
+    "category": "Artículos Perros",
     "description": "Ayuda a que nuestra mascota coma de forma adecuada. Ideal para perros medianos a grandes."
   },
    { "name": "Sofá para Hámster",
@@ -168,7 +168,7 @@
     "price":"450 MXN",
     "image": "images/Photoroom_20251011_093453.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi L",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Correa extensible para perros de máximo 50kg. Alcanza 5m."
   },
   {
@@ -176,7 +176,7 @@
     "price":"350 MXN",
    "image":"images/Photoroom_20251011_093340.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi S",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Correa extensible para perros de máximo 35 kg. Alcanza 0.5m."
   },
   {
@@ -184,7 +184,7 @@
     "price":"350 MXN",
    "image":"images/Photoroom_20251011_093424.png",
     "whatsapp":"Hola, quiero información sobre la Correa Flexi M",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Correa extensible para perros de máximo 20kg. Alcanza 5m."
   },
   {
@@ -193,7 +193,7 @@
     "discount":30,
     "image":"images/Photoroom_20251011_101011.png",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Hueso",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Bolsa/cangurera. Ideal para pasear a nuestro perro. Con espacios para correa, bolsas y más."
   },
   {
@@ -202,7 +202,7 @@
     "discount":30,
     "image":"images/flexibagnegra.jpg",
     "whatsapp":"Hola, quiero información sobre la Flexi Bag Negra",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Bolsa/cangurera. Ideal para pasear a nuestro perro. Con espacios para correa, bolsas y más."
   },
   {
@@ -210,7 +210,7 @@
     "price":"80 MXN",
     "image":"images/Photoroom_20251011_093049.png",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Dura",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
   },
   {
@@ -218,7 +218,7 @@
     "price":"60 MXN",
     "image":"images/Photoroom_20251011_080310.png",
     "whatsapp":"Hola, quiero información sobre el Libro Pasta Blanda",
-    "category":"Artículos para Perros",
+    "category":"Artículos Perros",
     "description": "Libro para entender el carácter, raza, comportamiento y necesidades de nuestro perro. Distintas razas."
   },
   {
@@ -226,7 +226,7 @@
     "price":"40 MXN",
     "image":"images/IMG_1896.jpeg",
     "whatsapp":"Hola, quiero información sobre la Pala para arenero",
-    "category":"Artículos para Gatos",
+    "category":"Artículos Gatos",
     "description": "Pala para arenero con 1 paquete de bolsas incluidas."
   }
 ]
