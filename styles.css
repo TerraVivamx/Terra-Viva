@@ -21,13 +21,6 @@ header {
   z-index: 0;
 }
 
-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.15); /* puedes bajarlo o quitarlo */
-  z-index: -1; /* esto lo manda atrás del texto */
-}
 
 header * {
   position: relative;
