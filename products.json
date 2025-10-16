@@ -13,7 +13,7 @@
     "image": "images/IMG_1957.jpeg",
     "whatsapp": "Hola, quiero información sobre la Tortuga de Patas Rojas",
     "category": "Reptiles",
-    "description": "Para cuidar una tortuga de patas rojas, proporciona un hábitat con zonas cálidas (\(30-32^{\circ }C\)) y frescas, manteniendo una humedad entre 80-90% con fuentes de agua limpia y una caja de sustrato húmedo. Su dieta debe ser variada, omnívora, rica en fibra (hojas verdes, calabaza) y suplementada con calcio y multivitamínicos, y se recomienda una bombilla UVB. "
+    "description": "Para cuidar una tortuga de patas rojas, proporciona un hábitat con zonas cálidas y frescas, manteniendo una humedad entre 80-90% con fuentes de agua limpia y una caja de sustrato húmedo. Su dieta debe ser variada, omnívora, rica en fibra (hojas verdes, calabaza) y suplementada con calcio y multivitamínicos, y se recomienda una bombilla UVB. "
   },
   {
     "name": "Iguana Verde",
@@ -21,7 +21,7 @@
     "image": "images/iguana.jpg.JPG",
     "whatsapp": "Hola, quiero información sobre la Iguana Verde",
     "category": "Reptiles",
-    "description": "Su dieta debe ser variada e incluir suplementos de calcio, además de asegurar un acceso constante a agua fresca.Mantén un gradiente térmico con una zona cálida de \(28-32\degree C\) y una zona fresca de al menos \(21-25\degree C\) durante la noche. Usa focos o lámparas para reptiles para mantener la temperatura y considera una placa calefactora."
+    "description": "Su dieta debe ser variada e incluir suplementos de calcio, además de asegurar un acceso constante a agua fresca.Mantén un gradiente térmico con una zona cálida y una zona fresca durante la noche. Usa focos o lámparas para reptiles para mantener la temperatura y considera una placa calefactora."
   },
   {
     "name": "Plato para comer lento",
