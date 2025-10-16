@@ -10,12 +10,27 @@ body {
   line-height: 1.6;
 }
 
-/* Encabezado */
 header {
-  background: #234d20;
-  padding: 1.5em;
+  background: url('images/IMG_1977.jpeg') no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed; /* hace que se vea más moderno */
+  padding: 2em 1em;
   text-align: center;
   color: #fff;
+  position: relative;
+}
+
+/* Opcional: un velo oscuro encima para que el texto se lea mejor */
+header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* cambia 0.4 si quieres más o menos oscuridad */
+}
+
+header * {
+  position: relative;
+  z-index: 1; /* asegura que el texto quede encima del velo */
 }
 
 h1 {
