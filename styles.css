@@ -8,7 +8,8 @@ body {
   background: #111;
   color: #eee;
   line-height: 1.6;
-  }
+}
+  
 header {
   position: relative;
   background-image: url('images/IMG_1977.jpeg');
@@ -21,11 +22,14 @@ header {
   z-index: 0;
 }
 
-
-header * {
-  position: relative;
-  z-index: 1; /* asegura que el texto quede encima del velo */
+header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.15); /* puedes bajarlo o quitarlo */
+  z-index: -1; /* esto lo manda atrás del texto */
 }
+
 
 h1 {
   margin: 0;
