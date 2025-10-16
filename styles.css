@@ -9,15 +9,14 @@ body {
   color: #eee;
   line-height: 1.6;
 }
-
 header {
-  background: url('images/IMG_1977.jpeg') no-repeat center center;
+  background-image: url('images/IMG_1977.jpeg');
   background-size: cover;
-  background-attachment: fixed; /* hace que se vea más moderno */
-  padding: 2em 1em;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 1.5em;
   text-align: center;
   color: #fff;
-  position: relative;
 }
 
 /* Opcional: un velo oscuro encima para que el texto se lea mejor */
