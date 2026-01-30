@@ -1,4 +1,28 @@
 [
+   {
+    "name": "Tortuga Picta Vientre Rojo",
+    "price": "400 MXN",
+    "image": "images/PHOTO-2025-11-13-23-45-18",
+    "whatsapp": "Hola, quiero información sobre la Tortuga Picta Vientre Rojo",
+    "category": "Reptiles",
+    "description": "La dieta debe ser variada, incluyendo alimento comercial, verduras, frutas, insectos, y ocasionalmente carne magra como pollo o camarón. También es importante suplementar con calcio y asegurarse de que el acuario sea lo suficientemente grande, añadiendo más espacio a medida que la tortuga crece"
+  },
+    {
+    "name": "Tortuga Picta Picta",
+    "price": "350 MXN",
+    "image": "images/PHOTO-2026-01-27-10-43-23",
+    "whatsapp": "Hola, quiero información sobre la Tortuga Picta Picta",
+    "category": "Reptiles",
+    "description": "La dieta debe ser variada, incluyendo alimento comercial, verduras, frutas, insectos, y ocasionalmente carne magra como pollo o camarón. También es importante suplementar con calcio y asegurarse de que el acuario sea lo suficientemente grande, añadiendo más espacio a medida que la tortuga crece"
+  },
+  {
+    "name": "Tortuga Picta Dorsalis",
+    "price": "1000 MXN",
+    "image": "images/PHOTO-2025-11-14-00-03-17",
+    "whatsapp": "Hola, quiero información sobre la Tortuga Picta Dorsalis",
+    "category": "Reptiles",
+    "description": "La dieta debe ser variada, incluyendo alimento comercial, verduras, frutas, insectos, y ocasionalmente carne magra como pollo o camarón. También es importante suplementar con calcio y asegurarse de que el acuario sea lo suficientemente grande, añadiendo más espacio a medida que la tortuga crece"
+  },
   {
     "name": "Tortuga Pavoreal",
     "price": "100 MXN",
