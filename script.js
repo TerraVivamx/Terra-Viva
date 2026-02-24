@@ -90,3 +90,18 @@ function filterCategory(category) {
 
 // --- CARGA AUTOMÁTICA ---
 loadProducts();
+<script>
+const imagenesHero = [
+  "https://via.placeholder.com/600x600?text=Tortuga",
+  "https://via.placeholder.com/600x600?text=Hurón",
+  "https://via.placeholder.com/600x600?text=Iguana"
+];
+
+let indice = 0;
+const heroImg = document.getElementById("heroImg");
+
+setInterval(() => {
+  indice = (indice + 1) % imagenesHero.length;
+  heroImg.src = imagenesHero[indice];
+}, 4000);
+</script>
