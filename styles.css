@@ -171,3 +171,35 @@ body {
 .product-info button {
   width: 100%;
 }
+.product {
+    background: #111;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.product h3,
+.product p,
+.product strong {
+    background: #fff;
+    color: #000;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0;
+}
+
+.product h3 {
+    border-radius: 10px 10px 0 0;
+    padding-top: 15px;
+}
+
+.product strong {
+    display: block;
+    border-radius: 0 0 10px 10px;
+    padding-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.product button {
+    margin-top: 15px;
+}
