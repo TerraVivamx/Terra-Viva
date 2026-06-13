@@ -24,12 +24,19 @@ products.forEach(p => {
 
   // --- ESTRUCTURA DE LA TARJETA ---
   card.innerHTML = `
-    <img src="${p.image}" alt="${p.name}">
+  <img src="${p.image}" alt="${p.name}">
+
+  <div class="product-info">
     <h3>${p.name}</h3>
     <p>${p.description || ''}</p>
-    ${priceHTML}<br>
-    <button onclick="sendWhatsAppMessage('${p.name}')">Comprar vía WhatsApp</button>
-  `;
+
+    ${priceHTML}
+
+    <button onclick="sendWhatsAppMessage('${p.name}')">
+      Comprar vía WhatsApp
+    </button>
+  </div>
+`;
 
   container.appendChild(card);
 });
