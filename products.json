@@ -1,4 +1,12 @@
 [
+    {
+    "name": "Paquete de accesorios",
+    "price": "300 MXN", 
+    "image": "images/Diseño sin título.png",
+    "whatsapp": "Hola, quiero información sobre el Paquete de accesorios",
+    "category": "Artículos Perros",
+    "description": "Paquete para consentir a tú peludo. Incluye. Pechera, Plato de Bambú, Guante Masajeador Quita Pelo, 3 Bolsas para Desechos y Regalo Sorpresa"
+  },
   {
     "name": "Tortuga Kinosternon Integrum",
     "price": "400 MXN",
