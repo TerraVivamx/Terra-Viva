@@ -2,6 +2,7 @@
     {
     "name": "Paquete de accesorios",
     "price": "300 MXN", 
+    "new": true
     "image": "images/Diseño sin título.png",
     "whatsapp": "Hola, quiero información sobre el Paquete de accesorios",
     "category": "Artículos Perros",
