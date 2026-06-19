@@ -26,6 +26,9 @@ card.dataset.discount = p.discount || 0;
 
   // --- ESTRUCTURA DE LA TARJETA ---
   card.innerHTML = `
+  
+  ${p.new ? '<span class="badge-new">🔥 NUEVO</span>' : ''}
+${p.discount ? `<span class="badge-sale">-${p.discount}%</span>` : ''}
   <img src="${p.image}" alt="${p.name}">
 
   <div class="product-info">
