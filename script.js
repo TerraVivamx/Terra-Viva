@@ -8,6 +8,8 @@ products.forEach(p => {
   const card = document.createElement('div');
   card.className = 'product';
   card.dataset.category = p.category;
+  card.dataset.new = p.new || false;
+card.dataset.discount = p.discount || 0;
 
   // Convertir precio a número por si viene como texto
   const price = parseFloat(p.price);
