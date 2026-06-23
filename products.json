@@ -1,4 +1,49 @@
 [
+  {
+    "name": "Collar plano c/mariposa HS Sprenger 2.5x60 QR ACERO CROMADO",
+    "price": "376 MXN", 
+    "new": true,
+    "image": "images/Photoroom_20260622_171048.jpeg",
+    "whatsapp": "Hola, quiero información sobre el Collar de mariposa HS Sprenger",
+    "category": "Artículos Perros",
+    "description": "Collar de acero cromado con eslabones planos para un deslizamiento más rápido. Los eslabones son electro-soldados para mayor resistencia y durabilidad. Con su práctica asa (conocida también como mariposa o cola de delfín) permite detener al perro cuando no se tiene la correa a la mano sin lastimarse los dedos."
+    
+  {
+    "name": "Collar plano c/mariposa HS Sprenger 2.5x55 QR ACERO CROMADO",
+    "price": "362 MXN", 
+    "new": true,
+    "image": "images/Photoroom_20260622_171048.jpeg",
+    "whatsapp": "Hola, quiero información sobre el Collar de mariposa HS Sprenger",
+    "category": "Artículos Perros",
+    "description": "Collar de acero cromado con eslabones planos para un deslizamiento más rápido. Los eslabones son electro-soldados para mayor resistencia y durabilidad. Con su práctica asa (conocida también como mariposa o cola de delfín) permite detener al perro cuando no se tiene la correa a la mano sin lastimarse los dedos."
+    },
+    {
+    "name": "Collar plano c/mariposa HS Sprenger 2.5x50 QR ACERO CROMADO",
+    "price": "352 MXN", 
+    "new": true,
+    "image": "images/Photoroom_20260622_171048.jpeg",
+    "whatsapp": "Hola, quiero información sobre el Collar de mariposa HS Sprenger",
+    "category": "Artículos Perros",
+    "description": "Collar de acero cromado con eslabones planos para un deslizamiento más rápido. Los eslabones son electro-soldados para mayor resistencia y durabilidad. Con su práctica asa (conocida también como mariposa o cola de delfín) permite detener al perro cuando no se tiene la correa a la mano sin lastimarse los dedos."
+    },
+  {
+    "name": "Collar entrenamiento HS Sprenger 4x63 QR ACERO CROMADO",
+    "price": "1557 MXN", 
+    "new": true,
+    "image": "images/Photoroom_20260622_171148.jpeg",
+    "whatsapp": "Hola, quiero información sobre el Collar de entrenamiento HS Sprenger",
+    "category": "Artículos Perros",
+    "description": "Collar de punta: este collar de entrenamiento para perros cuenta con extremos de seguridad para la seguridad del perro y del dueño. Collar de corrección para perro: la placa central permite una presión uniforme y corrección."
+  },
+  {
+    "name": "Collar entrenamiento HS Sprenger 3.2x57 QR ACERO CROMADO",
+    "price": "1192 MXN", 
+    "new": true,
+    "image": "images/Photoroom_20260622_171148.jpeg",
+    "whatsapp": "Hola, quiero información sobre el Collar de entrenamiento HS Sprenger",
+    "category": "Artículos Perros",
+    "description": "Collar de punta: este collar de entrenamiento para perros cuenta con extremos de seguridad para la seguridad del perro y del dueño. Collar de corrección para perro: la placa central permite una presión uniforme y corrección."
+  },
     {
     "name": "Collar plano HS Sprenger 3x65 ACERO CROMADO",
     "price": "513 MXN", 
